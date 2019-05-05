@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author pedro
+ * @author matheus dias
  */
 public class CadastroPoupanca extends javax.swing.JFrame {
 
